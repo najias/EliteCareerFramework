@@ -1,5 +1,5 @@
 package base;
 
-public class TestBase {
+public class TestBase extends Driver{
 
 }

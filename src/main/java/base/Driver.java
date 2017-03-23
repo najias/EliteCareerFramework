@@ -1,5 +1,7 @@
 package base;
 
-public class Driver {
+import utils.ReadProperties;
+
+public class Driver extends ReadProperties{
 
 }

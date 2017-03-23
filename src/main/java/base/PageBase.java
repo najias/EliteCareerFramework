@@ -1,5 +1,5 @@
 package base;
 
-public class PageBase {
+public class PageBase extends Driver{
 
 }

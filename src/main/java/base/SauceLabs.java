@@ -1,5 +1,7 @@
 package base;
 
-public class SauceLabs {
+import utils.ReadProperties;
+
+public class SauceLabs extends ReadProperties{
 
 }
